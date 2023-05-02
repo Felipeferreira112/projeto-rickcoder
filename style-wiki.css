@@ -1,0 +1,93 @@
+body {
+    background-image: url(image/background.png);
+    background-size: 100%;
+
+}
+p {
+    color: white;
+
+}
+
+.navmenu li {
+    display: inline-block;
+    margin-left: 80px;
+    color: white;
+    
+
+}
+
+.navmenu ul {
+    margin-left: 60px;
+    
+}
+
+.navmenu :hover {
+    color: green;
+    cursor: pointer;
+}
+
+
+
+
+
+.contanier {
+    margin: 0 auto;
+    width: 1148px;
+    
+}
+.box-imagens {
+    max-width:500px;
+    max-height:250px;
+    width: auto;
+    height: auto;
+}
+
+.logo1 {
+    display: flex;
+    justify-content: center;
+
+    
+}
+
+.text-1 {
+        display: flex;
+        width: 100%;
+        text-align: center;
+        display: -webkit-box;
+        font-size: large;
+        font-weight: 200;
+}
+
+.box-rick {
+    display:flex;
+    gap: 8%;
+    margin-bottom: 50px;
+    
+    
+}
+.box-morty {
+    display:flex;
+    gap: 8%;
+    margin-bottom: 50px;
+}
+
+.box-jerry {
+    display:flex;
+    margin-left: 30px;
+    gap: 8%;
+    margin-bottom: 50px;
+    
+}
+
+.box-beth {
+    margin-left: 80px;
+    display:flex;
+    gap: 8%;
+    margin-bottom: 50px;
+}
+.box-summer {
+    margin-left: 30px;
+    display:flex;
+    gap: 8%;
+    margin-bottom: 50px;
+}
